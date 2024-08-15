@@ -114,10 +114,10 @@ const technologies = [
   //   name: 'Three JS',
   //   icon: threejs,
   // },
-  {
-    name: 'docker',
-    icon: docker,
-  },
+  // {
+  //   name: 'docker',
+  //   icon: docker,
+  // },
   {
     name: 'SQL',
     icon: sql,
